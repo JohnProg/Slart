@@ -1,6 +1,5 @@
 {
   "name": "slart",
-  "private": true,
   "scripts": {
     "start": "meteor run"
   },
